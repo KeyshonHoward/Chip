@@ -9,11 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-"The Project is a half adder that uses an Xor gate for the Sum on the inputs and an and gate for the Carry bit"
+"The Project is a half adder that uses three and gates and two Xor gates to add 2 1 bit numbers"
 
 ## How to test
 
-"You change the inputs and see the output change based on the lights illuminating"
+"You change the inputs and see the output change based on the lights illuminating, the blue light represents the sum bit and the
+white light is the carry bit"
 
 ## External hardware
 
